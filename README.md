@@ -31,7 +31,7 @@ how it work that's all if you have just 4 hours in the day you can make a table 
 ## Free Resource to learn a web development
 **Front end**
 Just fo to free code camp and start with Responsive Web Design path 
-***Remember that ain't a school exam you didn't need to pass that you just want to learn how that is build.**
+***Remember that ain't a school exam you didn't need to pass that you just want to learn how that is build.***
 
 **Backend**
 Just going to this playlist you don't need more <ins>https://youtu.be/9BD9eK9VqXA?si=dJ7hmw_MLNXdfP1L</ins>.
@@ -39,4 +39,4 @@ Just going to this playlist you don't need more <ins>https://youtu.be/9BD9eK9VqX
 **Netwoking**
 Okay here just going to networking fundmental by <ins>Practical Networking</ins>
 
-*** and just it,that's all for the fundmental ***
+***and just it,that's all for the fundmental***
