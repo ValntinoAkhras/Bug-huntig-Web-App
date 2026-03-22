@@ -1,7 +1,7 @@
 # Bug-huntig-Web-App
 that's repo will take your hand from your main knowldge on how web work to methodology and some web hacking and OWAZP Top 10. 
 ## Important!
-Iam not a master of bug hunter iam just documentaion my path , and you __should learn fundmental before start__!!!
+Iam not a master of bug hunting iam just documentaion my path , and you __should learn fundmental before start__!!!
 
 
 ## Web Development 
