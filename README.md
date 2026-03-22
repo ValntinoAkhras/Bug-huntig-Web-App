@@ -5,9 +5,12 @@ Iam not a master of bug hunting iam just documentaion my path , and you __should
 
 
 ## Web Development 
-***in real you didn't need to pe a senior on those just learn basics of front end that will take a 2 weaks if that's what that take's from me and if you want to go deep lurn the fundmental of backend just if you get poord like me learn the behind the Architecture and how is happend is Databases server and if you zero you should before that all learn the network fundemntal just for now learn
+***in real you didn't need to pe a senior on those just learn basics of front end that will take a 2 weaks if that's what that take's from me and if you want to go deep lurn the fundmental of backend just if you get poord like me learn the behind the Architecture and how is happend is Databases server and if you zero***
+
+## Networking
+****you should before that all learn the network fundemntal just for now learn
 *OSI TCP/IP* and foucuse just in how protocols like *http,https,DHCP,DNS,Oauth,SAML,JWT,SMB,RDP,TLS,SSL*
-how it work that's all if you have just 4 hours in the day you can make a table for 2 months and you make a 2 hourse for a web and 1 hour for network and just 1 houre come here and read my repo after that you will become a ninja and with some exprince for 8 month's you will be a **Master Shifu.***** 
+how it work that's all if you have just 4 hours in the day you can make a table for 2 months and you make a 2 hourse for a web and 1 hour for network and just 1 houre come here and read my repo after that you will become a ninja and with some exprince for 8 month's you will be a **Master Shifu.****
 
 
 ⠀⣠⣶⣿⣿⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
