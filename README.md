@@ -39,7 +39,7 @@ Just fo to free code camp and start with Responsive Web Design path
 **Backend**
 Just going to this playlist you don't need more <ins>https://youtu.be/9BD9eK9VqXA?si=dJ7hmw_MLNXdfP1L</ins>.
 
-**Netwoking**
+## Free Resource to learn Networking 
 Okay here just going to networking fundmental by <ins>Practical Networking</ins>
 
 ***and just it,that's all for the fundmental***
