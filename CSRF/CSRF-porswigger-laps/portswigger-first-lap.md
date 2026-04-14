@@ -29,12 +29,12 @@ Connection: keep-alive
 
 email=sajbfv%40gmail.com //email parameter
 ```
-##As we look no csrf tokens 
+## As we look no csrf tokens 
 
 **to attack you want to set server the lap is give you a server to work with but in the next or second modul we will
 set our server with NC (because we will use it in the XSS) but don't think about it for now we just need to know the fundmentals.**
 
-#OK
+# OK
 
 go to the sever the lap is gived you set you payload as we learn in the explaintaion we know how payload work
 
@@ -52,31 +52,53 @@ go to the sever the lap is gived you set you payload as we learn in the explaint
    </body>
 </html>
 ```
-##that's all about the portswigger lap
+## that's all about the portswigger lap
 
-## First open the proxy on burpsuite and chose open the browser
+### First open the proxy on burpsuite and chose open the browser
+
 <img width="2880" height="1732" alt="f" src="https://github.com/user-attachments/assets/7c8d32c8-25e7-473c-a928-36dc584d963d" />
-## open the lap 
+
+### open the lap 
+
 <img width="1317" height="375" alt="a" src="https://github.com/user-attachments/assets/01808ed9-72aa-4f83-9609-49d0d9aacb7d" />
-## Write your info 
+
+### Write your info 
+
 <img width="1549" height="780" alt="d" src="https://github.com/user-attachments/assets/93ef6d67-e43b-4c69-ab3b-2800a347f7cb" />
-## change email
+
+### change email
+
 <img width="1549" height="602" alt="e" src="https://github.com/user-attachments/assets/fc53524c-426c-4c16-9515-8a1202e71053" />
-## Before submit the request make intercept on than submit
+
+### Before submit the request make intercept on than submit
+
 <img width="168" height="41" alt="H" src="https://github.com/user-attachments/assets/3e7c7782-e0cb-41a3-8eba-454c2f7042a6" />
-## Take a look to the request there is no **CSRF TOKENS** and look to the dirctory of the request on the first line
+
+### Take a look to the request there is no **CSRF TOKENS** and look to the dirctory of the request on the first line
+
 POST /my-account/change-email HTTP/1.1 //Request dirctory (/my-account/change-email)
+
 <img width="1131" height="347" alt="Screenshot_20260409_022613" src="https://github.com/user-attachments/assets/a33b9d4a-47b6-4b4e-9740-82ca31941d7a" />
-## Now open the exploit server on the lap page 
+
+### Now open the exploit server on the lap page 
+
 <img width="368" height="126" alt="Screenshot_20260409_023100" src="https://github.com/user-attachments/assets/3603be0e-48da-47a2-96ba-847386173042" />
-## copy the email form on by the page
+
+### copy the email form on the lab page
+
 <img width="1900" height="996" alt="Screenshot_20260409_022934" src="https://github.com/user-attachments/assets/44f8ea38-5fbe-45fc-ba19-20dbcd16d08e" />
 <img width="1319" height="1058" alt="Screenshot_20260409_023012" src="https://github.com/user-attachments/assets/2f40dece-06f6-4446-978a-e4c40a52e9a2" />
-## focus on this keep the same form but change the action to send the form to the /webpage/my-account/change-email
+
+## focus on this keep the same form but change the action to send the form to the /webpage/
+
+my-account/change-email
 okay add your html tag add body and after the form end with </form>
 add that script to submit the request automaticlly when requset send without user action
+
 <img width="2166" height="1184" alt="Screenshot_20260409_023659" src="https://github.com/user-attachments/assets/42c9d038-335b-4139-94bb-ad6d3e1d0a61" />
-## send the exploit and booom you win
+
+### send the exploit and booom you win
+
 <img width="2865" height="413" alt="Screenshot_20260409_023740" src="https://github.com/user-attachments/assets/8217a65e-bd23-4db8-97d2-57c82c7b0698" />
 
 
